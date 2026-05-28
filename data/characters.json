@@ -1,0 +1,984 @@
+{
+  "10000002": {
+    "name": "카미사토 아야카",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Ayaka",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000003": {
+    "name": "진",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Qin",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000005": {
+    "name": "여행자",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerBoy",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000006": {
+    "name": "리사",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Lisa",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000007": {
+    "name": "여행자",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerGirl",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000014": {
+    "name": "바바라",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Barbara",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000015": {
+    "name": "케이아",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Kaeya",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000016": {
+    "name": "다이루크",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Diluc",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000020": {
+    "name": "레이저",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Razor",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000021": {
+    "name": "엠버",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Ambor",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000022": {
+    "name": "벤티",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Venti",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000023": {
+    "name": "향릉",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Xiangling",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000024": {
+    "name": "북두",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Beidou",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000025": {
+    "name": "행추",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Xingqiu",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000026": {
+    "name": "소",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Xiao",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000027": {
+    "name": "응광",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Ningguang",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000029": {
+    "name": "클레",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Klee",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000030": {
+    "name": "종려",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Zhongli",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000031": {
+    "name": "피슬",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Fischl",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000032": {
+    "name": "베넷",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Bennett",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000033": {
+    "name": "타르탈리아",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Tartaglia",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000034": {
+    "name": "노엘",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Noel",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000035": {
+    "name": "치치",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Qiqi",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000036": {
+    "name": "중운",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Chongyun",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000037": {
+    "name": "감우",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Ganyu",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000038": {
+    "name": "알베도",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Albedo",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000039": {
+    "name": "디오나",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Diona",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000041": {
+    "name": "모나",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Mona",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000042": {
+    "name": "각청",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Keqing",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000043": {
+    "name": "설탕",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Sucrose",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000044": {
+    "name": "신염",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Xinyan",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000045": {
+    "name": "로자리아",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Rosaria",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000046": {
+    "name": "호두",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Hutao",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000047": {
+    "name": "카에데하라 카즈하",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Kazuha",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000048": {
+    "name": "연비",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Feiyan",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000049": {
+    "name": "요이미야",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Yoimiya",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000050": {
+    "name": "토마",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Tohma",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000051": {
+    "name": "유라",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Eula",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000052": {
+    "name": "라이덴 쇼군",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Shougun",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000053": {
+    "name": "사유",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Sayu",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000054": {
+    "name": "산고노미야 코코미",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Kokomi",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000055": {
+    "name": "고로",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Gorou",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000056": {
+    "name": "쿠죠 사라",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Sara",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000057": {
+    "name": "아라타키 이토",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Itto",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000058": {
+    "name": "야에 미코",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Yae",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000059": {
+    "name": "시카노인 헤이조",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Heizo",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000060": {
+    "name": "야란",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Yelan",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000061": {
+    "name": "키라라",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_Momoka",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000062": {
+    "name": "에일로이",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Aloy",
+    "quality": "QUALITY_ORANGE_SP",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000063": {
+    "name": "신학",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Shenhe",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000064": {
+    "name": "운근",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Yunjin",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000065": {
+    "name": "쿠키 시노부",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Shinobu",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000066": {
+    "name": "카미사토 아야토",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Ayato",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000067": {
+    "name": "콜레이",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_Collei",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000068": {
+    "name": "도리",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Dori",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000069": {
+    "name": "타이나리",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_Tighnari",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000070": {
+    "name": "닐루",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Nilou",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000071": {
+    "name": "사이노",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Cyno",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000072": {
+    "name": "캔디스",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Candace",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000073": {
+    "name": "나히다",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_Nahida",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000074": {
+    "name": "레일라",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Layla",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000075": {
+    "name": "방랑자",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Wanderer",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000076": {
+    "name": "파루잔",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Faruzan",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000077": {
+    "name": "요요",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_Yaoyao",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000078": {
+    "name": "알하이탐",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_Alhatham",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000079": {
+    "name": "데히야",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Dehya",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000080": {
+    "name": "미카",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Mika",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000081": {
+    "name": "카베",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_Kaveh",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000082": {
+    "name": "백출",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_Baizhuer",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000083": {
+    "name": "리넷",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Linette",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000084": {
+    "name": "리니",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Liney",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000085": {
+    "name": "프레미네",
+    "sideIcon": "UI_AvatarIcon_Side_Freminet",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000086": {
+    "name": "라이오슬리",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Wriothesley",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000087": {
+    "name": "느비예트",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Neuvillette",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000088": {
+    "name": "샤를로트",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Charlotte",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000089": {
+    "name": "푸리나",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Furina",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000090": {
+    "name": "슈브르즈",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Chevreuse",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000091": {
+    "name": "나비아",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Navia",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000092": {
+    "name": "가명",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Gaming",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000093": {
+    "name": "한운",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Liuyun",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000094": {
+    "name": "치오리",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Chiori",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000095": {
+    "name": "시그윈",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Sigewinne",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000096": {
+    "name": "아를레키노",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Arlecchino",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000097": {
+    "name": "세토스",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Sethos",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000098": {
+    "name": "클로린드",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Clorinde",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000099": {
+    "name": "에밀리",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_Emilie",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000100": {
+    "name": "카치나",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Kachina",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000101": {
+    "name": "키니치",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_Kinich",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000102": {
+    "name": "말라니",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Mualani",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000103": {
+    "name": "실로닌",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Xilonen",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000104": {
+    "name": "차스카",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Chasca",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000105": {
+    "name": "올로룬",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Olorun",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000106": {
+    "name": "마비카",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Mavuika",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000107": {
+    "name": "시틀라리",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Citlali",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000108": {
+    "name": "남연",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Lanyan",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000109": {
+    "name": "유메미즈키 미즈키",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Mizuki",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000110": {
+    "name": "얀사",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Iansan",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000111": {
+    "name": "바레사",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Varesa",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000112": {
+    "name": "에스코피에",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Escoffier",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000113": {
+    "name": "이파",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Ifa",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000114": {
+    "name": "스커크",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_SkirkNew",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000115": {
+    "name": "달리아",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Dahlia",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000116": {
+    "name": "이네파",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Ineffa",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000117": {
+    "name": "마네킨",
+    "element": "None",
+    "sideIcon": "UI_AvatarIcon_Side_Manekin",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000118": {
+    "name": "마네키나",
+    "element": "None",
+    "sideIcon": "UI_AvatarIcon_Side_Manekina",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000119": {
+    "name": "라우마",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_Lauma",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000120": {
+    "name": "플린스",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Flins",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000121": {
+    "name": "아이노",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Aino",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000122": {
+    "name": "네페르",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_Nefer",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000123": {
+    "name": "두린",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Durin",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000124": {
+    "name": "야호다",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Jahoda",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000125": {
+    "name": "콜롬비나",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_Columbina",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000126": {
+    "name": "자백",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Zibai",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000127": {
+    "name": "일루가",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Illuga",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000128": {
+    "name": "바르카",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_Varka",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000129": {
+    "name": "로엔",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Lohen",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000130": {
+    "name": "린네아",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_Linnea",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_BOW"
+  },
+  "10000131": {
+    "name": "니콜",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Nicole",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000132": {
+    "name": "산드로네",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Sandrone",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000133": {
+    "name": "앨리스",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Alice",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000901": {
+    "name": "마비카 (체험)",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Mavuika",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "10000902": {
+    "name": "호두(체험)",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Hutao",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000903": {
+    "name": "이네파",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_Ineffa",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_POLE"
+  },
+  "10000904": {
+    "name": "콜롬비나",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_Columbina",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_CATALYST"
+  },
+  "10000998": {
+    "name": "Character_10000998"
+  },
+  "10000999": {
+    "name": "Character_10000999"
+  },
+  "11000046": {
+    "name": "불의 신(테스트)",
+    "element": "Ice",
+    "sideIcon": "UI_AvatarIcon_Side_Qin",
+    "quality": "QUALITY_PURPLE",
+    "weaponType": "WEAPON_CLAYMORE"
+  },
+  "11000998": {
+    "name": "Character_11000998"
+  },
+  "11000999": {
+    "name": "Character_11000999"
+  },
+  "10000005-502": {
+    "name": "여행자",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerBoy",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000005-503": {
+    "name": "여행자",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerBoy",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000005-504": {
+    "name": "여행자",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerBoy",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000005-506": {
+    "name": "여행자",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerBoy",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000005-507": {
+    "name": "여행자",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerBoy",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000005-508": {
+    "name": "여행자",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerBoy",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000005-501": {
+    "name": "여행자",
+    "element": "None",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerBoy",
+    "quality": "QUALITY_ORANGE"
+  },
+  "10000007-701": {
+    "name": "여행자",
+    "element": "None",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerGirl",
+    "quality": "QUALITY_ORANGE"
+  },
+  "10000007-702": {
+    "name": "여행자",
+    "element": "Fire",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerGirl",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000007-703": {
+    "name": "여행자",
+    "element": "Water",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerGirl",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000007-704": {
+    "name": "여행자",
+    "element": "Wind",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerGirl",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000007-706": {
+    "name": "여행자",
+    "element": "Rock",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerGirl",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000007-707": {
+    "name": "여행자",
+    "element": "Electric",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerGirl",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000007-708": {
+    "name": "여행자",
+    "element": "Grass",
+    "sideIcon": "UI_AvatarIcon_Side_PlayerGirl",
+    "quality": "QUALITY_ORANGE",
+    "weaponType": "WEAPON_SWORD_ONE_HAND"
+  }
+}
