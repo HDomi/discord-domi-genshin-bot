@@ -7,7 +7,7 @@ on:
 env:
   APP_NAME: discord-domi-genshin-bot
   APP_DIR: /opt/docker/discord-domi-genshin-bot
-  APP_PORT: 5539
+  APP_PORT: 5540
 
 jobs:
   deploy:

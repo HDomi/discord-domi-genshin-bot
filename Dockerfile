@@ -24,7 +24,7 @@ COPY . .
 ENV NODE_ENV=production
 ENV DISCORD_TOKEN=$DISCORD_TOKEN
 ENV CLIENT_ID=$CLIENT_ID
-ENV PORT=5539
+ENV PORT=5540
 
 # 애플리케이션을 실행합니다.
 CMD ["node", "index.js"]

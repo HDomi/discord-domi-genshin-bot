@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "docker build -t domi-genshin-bot .",
-    "run": "docker run --env-file .env.development -p 5539:5539 domi-genshin-bot",
+    "run": "docker run --env-file .env.development -p 5540:5540 domi-genshin-bot",
     "clean": "docker stop $(docker ps -q --filter ancestor=domi-genshin-bot) 2>/dev/null || true && docker rm $(docker ps -a -q --filter ancestor=domi-genshin-bot) 2>/dev/null || true && docker rmi domi-genshin-bot 2>/dev/null || true",
     "rebuild": "npm run clean && npm run build && npm run run",
     "del-images": "docker rmi $(docker images -q)",
